@@ -7,5 +7,6 @@
 - Jalankan Apache & MySQL melalui Control Panel XAMPP.
 
 ### 2️⃣ Clone Repository Ini
+```sh
 git clone https://github.com/ifanani-code/Recycle-Me.git
 cd website-portfolio
