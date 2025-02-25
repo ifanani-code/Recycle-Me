@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@300;500&family=Poppins:wght@300&family=Titillium+Web:wght@400;900&display=swap');
+
+@layer base {
+    h1,span,body {
+        font-family: Poppins;
+    }
+}
