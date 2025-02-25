@@ -1,12 +1,12 @@
-# Web Portfolio
+# Recycle Me
 
-## 📌 Cara Menjalankan Secara Lokal
+## 📌 How to run it locally
 
-### 1️⃣ Instal XAMPP
-- Download dan install [XAMPP](https://www.apachefriends.org/download.html).
-- Jalankan Apache & MySQL melalui Control Panel XAMPP.
+### 1️⃣ Install XAMPP
+- Download and install [XAMPP](https://www.apachefriends.org/download.html).
+- Run Apache & MySQL through Control Panel XAMPP.
 
-### 2️⃣ Clone Repository Ini
+### 2️⃣ Clone This Repository 
 ```sh
 git clone https://github.com/ifanani-code/Recycle-Me.git
 cd website-portfolio
